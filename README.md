@@ -41,7 +41,7 @@ Mettre en place une topologie multi-switchs et configurer le STP (Spanning Tree 
 - Comportement du STP lors de la cicatrisation réseau
 - Configuration des ports sécurisés (PortFast, BPDU Guard)
 
-📄 Voir le rapport : [`TD Switch Cisco et STP`](./TD%20Switch%20Cisco%20et%20STP.pdf)
+📄 Voir le rapport : [`TD Switch Cisco et STP`](./td-stp-cablage.pdf)
 
 ---
 
@@ -59,7 +59,7 @@ Créer plusieurs VLANs sur un switch, configurer le DHCP et effectuer des tests 
 - Configuration d’un serveur DHCP par VLAN
 - Stratégies de répartition de la charge réseau
 
-📄 Voir le rapport : [`TP VLAN`](./TP%20VLAN.pdf)
+📄 Voir le rapport : [`TP VLAN`](./tp-vlan-dhcp.pdf)
 
 ---
 
