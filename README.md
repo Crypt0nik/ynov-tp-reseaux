@@ -24,7 +24,7 @@ Apprendre à réinitialiser, configurer et sécuriser un switch Cisco.
 - Configuration réseau de base
 - Sécurisation (mot de passe, utilisateur, activation SSH)
 
-📄 Voir le rapport : [`Compte Rendu TP Partie 1`](./Compte%20Rendu%20TP%20Partie%201%20Groupe%203%20(2).pdf)
+📄 Voir le rapport : [`Compte Rendu TP Partie 1`](./tp1-switch-cisco.pdf)
 
 ---
 
